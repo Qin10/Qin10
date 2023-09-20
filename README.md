@@ -1,5 +1,5 @@
 ### Hi I'm Qin Zhenghan 👋
-- 🔭 I’m currently working on ZJUT
+- 🔭 I’m currently working on ZJU
 - 🌱 I’m currently learning SE
 - 🤔 I’m looking for help with you kind
 - 🐧 QQ: 1079913845
